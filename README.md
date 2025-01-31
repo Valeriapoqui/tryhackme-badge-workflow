@@ -1,2 +1,2 @@
 # tryhackme-badge-workflow
-Share all the badge s I have earned
+Share all the badges I have earned
